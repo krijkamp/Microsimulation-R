@@ -4,5 +4,3 @@ Krijkamp EM, Alarid-Escudero F, Enns EA, Jalal HJ, Hunink MGM, Pechlivanoglou P.
 Written by the Decision Analysis in R for Technologies in Health (DARTH) group
 Visit the group Git for the code details form the paper via:
 https://github.com/DARTH-git/Microsimulation-tutorial
-or
-https://github.com/DARTH-git
